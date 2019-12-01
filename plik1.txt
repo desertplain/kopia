@@ -1,0 +1,4 @@
+echo "co sie gapisz"
+echo "do Ciebie mowie"
+echo "la la la"
+
